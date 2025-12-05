@@ -219,7 +219,7 @@ public:
                     cout << "\n\t--------------------------";
                     cout << "\n\t Item: " << m.getName();
                     cout << "\n\t Qty:  " << qty;
-                    cout << "\n\t Total: $" << total;
+                    cout << "\n\t Total: PKR." << total;
                     cout << "\n\t--------------------------\n";
                     saveData(); // Update DB
                 }
